@@ -20,3 +20,11 @@ function deviceInfo() {
 	navigator.notification.alert(info);
 	
 }
+
+function myInfo() {
+
+	info =  'Nazywam się Mateusz Sajler i jestem studentem Uniwersytetu Ekonomicznego'
+
+	navigator.notification.alert(info);
+	
+}
